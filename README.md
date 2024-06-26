@@ -3,8 +3,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 </h1> 
-<p align="center"> Introducing 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> nhelvo-𝗺𝗱 </h1> 
+<p align="center"> Introducing nhelvo-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -25,7 +25,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254113566713?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/+254113566713?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+nhelvo-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
