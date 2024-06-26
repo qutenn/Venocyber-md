@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg">
+    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/0dbc51849d0b62a8db16a.jpg">
   </a>
 </p>
     
@@ -25,7 +25,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+255689606561?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/+254113566713?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
