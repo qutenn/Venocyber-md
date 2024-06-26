@@ -1,5 +1,5 @@
 {
-  "name": "venocyber-md",
+  "name": "nhelvo-md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/kingjux/Venocyber-md/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["VENOCYBER-MD", "VENOCYBER", "VENOCYBER MD BOT","VENOCYBER MD","venocyber","venocybertech"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑-𝐓𝐄𝐂𝐇",
+      "value": "NHELVO-𝐓𝐄𝐂𝐇",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑 𝐌𝐃 𝐰𝐚𝐛𝐨𝐭𝐬"
+      "value": "NHELVO MD "
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
